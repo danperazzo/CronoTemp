@@ -1,0 +1,13 @@
+//DEBOUNCING
+module Debounce(B, CLK, StatusB);
+    input B; //Botão
+    input CLK; //Ele vai ser dividido no DivideCLK
+    output StatusB; //o estado do botão
+    wire Clock; //Resultado da divisão do CLK no DivideCLK
+    wire Q1, Q2, nQ2;
+    DebounceDivideCLK U(CLK, Clock);
+    DebounceFlipFlop_D D1(Clock, B, Q1);
+    DebounceFlipFlop_D D2(Clock, Q1, Q2);
+    assign nQ2 = ~Q2;
+    assign StatusB = Q1 & nQ2;
+endmodule

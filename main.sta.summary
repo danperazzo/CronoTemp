@@ -1,0 +1,149 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'counter[10]'
+Slack : -35.132
+TNS   : -915.143
+
+Type  : Slow 1200mV 85C Model Setup 'tecladinho:tec|num[10]'
+Slack : -30.901
+TNS   : -810.731
+
+Type  : Slow 1200mV 85C Model Setup 'tecladinho:tec|clk2'
+Slack : -26.729
+TNS   : -377.139
+
+Type  : Slow 1200mV 85C Model Setup 'clk'
+Slack : -8.938
+TNS   : -648.431
+
+Type  : Slow 1200mV 85C Model Hold 'tecladinho:tec|num[10]'
+Slack : -37.905
+TNS   : -541.474
+
+Type  : Slow 1200mV 85C Model Hold 'counter[10]'
+Slack : -37.218
+TNS   : -550.486
+
+Type  : Slow 1200mV 85C Model Hold 'clk'
+Slack : -0.200
+TNS   : -0.200
+
+Type  : Slow 1200mV 85C Model Hold 'tecladinho:tec|clk2'
+Slack : 0.286
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'counter[10]'
+Slack : -32.785
+TNS   : -83826.077
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'tecladinho:tec|num[10]'
+Slack : -31.544
+TNS   : -74337.121
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -154.630
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'tecladinho:tec|clk2'
+Slack : -1.285
+TNS   : -39.835
+
+Type  : Slow 1200mV 0C Model Setup 'counter[10]'
+Slack : -32.205
+TNS   : -836.411
+
+Type  : Slow 1200mV 0C Model Setup 'tecladinho:tec|num[10]'
+Slack : -28.013
+TNS   : -738.481
+
+Type  : Slow 1200mV 0C Model Setup 'tecladinho:tec|clk2'
+Slack : -24.172
+TNS   : -339.934
+
+Type  : Slow 1200mV 0C Model Setup 'clk'
+Slack : -8.149
+TNS   : -589.591
+
+Type  : Slow 1200mV 0C Model Hold 'tecladinho:tec|num[10]'
+Slack : -34.289
+TNS   : -487.571
+
+Type  : Slow 1200mV 0C Model Hold 'counter[10]'
+Slack : -33.640
+TNS   : -498.037
+
+Type  : Slow 1200mV 0C Model Hold 'clk'
+Slack : -0.177
+TNS   : -0.177
+
+Type  : Slow 1200mV 0C Model Hold 'tecladinho:tec|clk2'
+Slack : 0.308
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'counter[10]'
+Slack : -29.803
+TNS   : -75811.801
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'tecladinho:tec|num[10]'
+Slack : -28.601
+TNS   : -66914.878
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -154.630
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'tecladinho:tec|clk2'
+Slack : -1.285
+TNS   : -39.835
+
+Type  : Fast 1200mV 0C Model Setup 'counter[10]'
+Slack : -18.144
+TNS   : -459.687
+
+Type  : Fast 1200mV 0C Model Setup 'tecladinho:tec|num[10]'
+Slack : -15.266
+TNS   : -405.466
+
+Type  : Fast 1200mV 0C Model Setup 'tecladinho:tec|clk2'
+Slack : -12.740
+TNS   : -174.191
+
+Type  : Fast 1200mV 0C Model Setup 'clk'
+Slack : -4.065
+TNS   : -271.741
+
+Type  : Fast 1200mV 0C Model Hold 'tecladinho:tec|num[10]'
+Slack : -18.995
+TNS   : -272.276
+
+Type  : Fast 1200mV 0C Model Hold 'counter[10]'
+Slack : -18.527
+TNS   : -276.921
+
+Type  : Fast 1200mV 0C Model Hold 'clk'
+Slack : -0.262
+TNS   : -0.466
+
+Type  : Fast 1200mV 0C Model Hold 'tecladinho:tec|clk2'
+Slack : -0.007
+TNS   : -0.007
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'counter[10]'
+Slack : -15.974
+TNS   : -39936.105
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'tecladinho:tec|num[10]'
+Slack : -15.393
+TNS   : -35309.939
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -127.350
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'tecladinho:tec|clk2'
+Slack : -1.000
+TNS   : -31.000
+
+------------------------------------------------------------
